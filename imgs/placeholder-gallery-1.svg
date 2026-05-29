@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+<defs>
+<linearGradient id="g1Bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#1B4D3E"/>
+<stop offset="100%" stop-color="#0F2E24"/>
+</linearGradient>
+</defs>
+<rect width="600" height="400" fill="url(#g1Bg)" rx="12"/>
+<circle cx="100" cy="60" r="35" fill="rgba(212,146,60,.12)"/>
+<circle cx="520" cy="350" r="45" fill="rgba(255,255,255,.05)"/>
+<circle cx="480" cy="50" r="20" fill="rgba(212,146,60,.08)"/>
+<!-- Decorative bubbles -->
+<circle cx="150" cy="320" r="6" fill="rgba(255,255,255,.1)"/>
+<circle cx="220" cy="280" r="4" fill="rgba(255,255,255,.08)"/>
+<circle cx="400" cy="300" r="5" fill="rgba(255,255,255,.06)"/>
+<circle cx="350" cy="120" r="7" fill="rgba(255,255,255,.1)"/>
+<circle cx="180" cy="150" r="4" fill="rgba(255,255,255,.08)"/>
+<text x="300" y="200" text-anchor="middle" font-size="100" dominant-baseline="central">🍻</text>
+<text x="300" y="310" text-anchor="middle" font-family="Syne,sans-serif" font-weight="700" font-size="22" fill="rgba(255,255,255,.5)" letter-spacing="4">NUESTRAS PINTAS</text>
+</svg>
