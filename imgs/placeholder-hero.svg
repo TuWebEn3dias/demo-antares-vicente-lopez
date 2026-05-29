@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="600" height="500">
+<defs>
+<linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1B4D3E"/>
+<stop offset="100%" stop-color="#0F2E24"/>
+</linearGradient>
+<linearGradient id="copperShine" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#D4923C"/>
+<stop offset="100%" stop-color="#B87A2E"/>
+</linearGradient>
+</defs>
+<rect width="600" height="500" fill="url(#heroBg)" rx="16"/>
+<circle cx="120" cy="80" r="40" fill="rgba(212,146,60,.15)"/>
+<circle cx="500" cy="420" r="60" fill="rgba(212,146,60,.1)"/>
+<circle cx="80" cy="420" r="30" fill="rgba(255,255,255,.05)"/>
+<circle cx="520" cy="100" r="25" fill="rgba(255,255,255,.05)"/>
+<!-- Beer mug decorative -->
+<g transform="translate(160,120)" opacity=".12">
+<rect x="20" y="30" width="200" height="300" rx="20" fill="none" stroke="#D4923C" stroke-width="6"/>
+<rect x="180" y="80" width="60" height="150" rx="15" fill="none" stroke="#D4923C" stroke-width="6"/>
+<line x1="20" y1="180" x2="220" y2="180" stroke="#D4923C" stroke-width="6"/>
+</g>
+<!-- Foam bubbles -->
+<circle cx="220" cy="180" r="8" fill="rgba(255,255,255,.15)"/>
+<circle cx="300" cy="160" r="6" fill="rgba(255,255,255,.12)"/>
+<circle cx="380" cy="190" r="10" fill="rgba(255,255,255,.1)"/>
+<circle cx="260" cy="220" r="5" fill="rgba(255,255,255,.08)"/>
+<circle cx="350" cy="140" r="7" fill="rgba(255,255,255,.1)"/>
+<!-- Emoji beer mug -->
+<text x="300" y="240" text-anchor="middle" font-size="120" dominant-baseline="central">🍺</text>
+<!-- Brand text -->
+<text x="300" y="340" text-anchor="middle" font-family="Syne,sans-serif" font-weight="800" font-size="48" fill="url(#copperShine)" letter-spacing="8">ANTARES</text>
+<text x="300" y="380" text-anchor="middle" font-family="Syne,sans-serif" font-weight="600" font-size="20" fill="rgba(255,255,255,.6)" letter-spacing="6">VICENTE LÓPEZ</text>
+<text x="300" y="420" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="16" fill="rgba(255,255,255,.4)">Cerveza artesanal desde 1998</text>
+</svg>
