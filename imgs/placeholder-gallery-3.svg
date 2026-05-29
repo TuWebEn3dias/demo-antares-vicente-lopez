@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+<defs>
+<linearGradient id="g3Bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#1B4D3E"/>
+<stop offset="100%" stop-color="#0F2E24"/>
+</linearGradient>
+</defs>
+<rect width="600" height="400" fill="url(#g3Bg)" rx="12"/>
+<circle cx="520" cy="60" r="35" fill="rgba(212,146,60,.12)"/>
+<circle cx="80" cy="350" r="45" fill="rgba(255,255,255,.05)"/>
+<circle cx="100" cy="60" r="20" fill="rgba(212,146,60,.08)"/>
+<circle cx="500" cy="340" r="25" fill="rgba(255,255,255,.05)"/>
+<!-- Star decorations -->
+<text x="180" y="100" font-size="18" fill="rgba(212,146,60,.2)">⭐</text>
+<text x="400" y="320" font-size="14" fill="rgba(212,146,60,.15)">⭐</text>
+<text x="150" y="320" font-size="12" fill="rgba(255,255,255,.08)">⭐</text>
+<text x="430" y="100" font-size="16" fill="rgba(212,146,60,.12)">⭐</text>
+<circle cx="250" cy="140" r="5" fill="rgba(255,255,255,.1)"/>
+<circle cx="360" cy="280" r="4" fill="rgba(255,255,255,.08)"/>
+<circle cx="200" cy="260" r="6" fill="rgba(255,255,255,.06)"/>
+<text x="300" y="195" text-anchor="middle" font-size="100" dominant-baseline="central">🏆</text>
+<text x="300" y="310" text-anchor="middle" font-family="Syne,sans-serif" font-weight="700" font-size="22" fill="rgba(255,255,255,.5)" letter-spacing="4">CERVEZA PREMIADA</text>
+</svg>
